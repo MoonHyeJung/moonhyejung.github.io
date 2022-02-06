@@ -11,13 +11,13 @@ tags: [paper, study, research, thesis] # add tag
 I have conducted a lot of papers and researches including projects experience in the data area.
 
 ### Thesis for a degree
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2020 Study on Hundred Schools with view of Cultural Theory : focusing on Korea, China, Japan and Taiwan, DongBang Culture University. Thesis for a PhD in Philosophy.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2020. Study on Hundred Schools with view of Cultural Theory : focusing on Korea, China, Japan and Taiwan, DongBang Culture University. Thesis for a PhD in Philosophy.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2013. The advent of risk society and sustainability in Big Data Era (National Research Foundation of Korea NRF-2011-330-B00034). Advisor. Institute of IT Policy, Seoul National University of Science and Technology. Thesis for a PhD in Public Policy.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>1998. Meta Analysis for Client Orient Distributed Processing. Computer Department of Engineering, Graduate School, Seoul National University of science and Technology. Thesis for a Master in Computer Engineering.</div>
 
 ### Books
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2015. “World Lottery”  (ISBN: 978-89-965258-4-4)</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2015. “Korea Lottery“ (ISBN:  978-89-965258-3-7)</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2015. “Korea Lottery” (ISBN:  978-89-965258-3-7)</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2010. “Criteria to Winner: Security and Risk Management for Printed Lottery” (ISBN: 978-0-557-49682-2)</div>
 
 ### Study Papers
