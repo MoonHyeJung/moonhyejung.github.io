@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Papers and Researches
-date: 2022-01-01 00:00:00 +0300
+date: 2022-01-01 09:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: software.jpg # Add image post (optional)
 tags: [paper, study, research, thesis] # add tag
@@ -29,13 +29,13 @@ I have conducted a lot of papers and research including project experience in th
 - 2014. Policy Design based on Risk at Big Data Era: Case Study of Privacy Invasion in South Korea, 201406 ASE/IEEE International Conference on Big Data. Alaska, USA.
 - 2014. A Study on the World Lottery Trend and Development Strategy of Lottery in Korea. Korea Society of Strategic Management Spring Conference.
 - 2013. Development Strategy of Lottery in Korea, Lottery Commission.
-- 2013. Big Data and Policy design for Data Sovereignty: A Case Study on Copyright and CCL in South Korea”, 2013 ASE/IEEE International Conference on Big Data. Washington D.C., USA.
+- 2013. Big Data and Policy design for Data Sovereignty: A Case Study on Copyright and CCL in South Korea, 2013 ASE/IEEE International Conference on Big Data. Washington D.C., USA.
 - 2013. Policy  Design  about  Big  Data  Concept  and  Data  sovereignty. Korea Information Processing Society, Spring Conference.
 - 2013. The Change of Lottery Policy in Korea: Focusing on Policy Agenda Setting. Doctoral  thesis, Department of Public Policy Graduate School of Public Policy and Information Technology Seoul National University of Science and Technology.
 - 2012. Risk based policy at big data era: Case  study  of  privacy  invasion.  Informatization  Policy, 19(4): 63-82.
 - 2012. Trend of Lottery studies. International Conference and Forum on Public Welfare and Gaming Industry: China, Beiging.
 - 2012. Study on Agenda Setting of Korean Lottery. Korean Society and Public Administration, 23(1): 287-316.
-- 2011. Research about China's Future and Informatization Policy. 「 IT & Future Strategy 」 , 7: National Information Society Agency.
+- 2011. Research about China's Future and Informatization Policy. IT & Future Strategy, 7: National Information Society Agency.
 
 ### Thesis for a degree
 - 2013. The advent of risk society and sustainability in Big Data Era (National Research Foundation of Korea NRF-2011-330-B00034). Advisor. Institute of IT Policy, Seoul National University of Science and Technology. Thesis for a PhD in Public Policy
