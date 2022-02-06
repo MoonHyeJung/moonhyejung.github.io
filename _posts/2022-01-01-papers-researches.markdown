@@ -11,6 +11,17 @@ tags: [paper, study, research, thesis] # add tag
 I have conducted a lot of papers and researches including projects experience in the data area.
 
 ### Papers and Researches
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2021. Study on Delivery Service related on 4th Industrial Revolution Technology using SNS Big data, Inspiring Insight in Business Society, Convergence Conference Proceedings: 582-603.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2021. Semantic Analysis of Previous Study on Artificial Intelligence in the World, Digital Contents Society, Summer Conference Proceedings: JeJu, Korea.
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2019. Lottery Game from the viewpoint of Cultural Policy and Oriental Philosophy, East Asian Culture and Thought, 7: 293-327.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2018. Study on Confucian Politics about the Annals of the Choson Dynasty through Big Data Analysis. Journal of The Korea Contents Association, 18(7): 253-261.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2018. A Study on Public Policy through Semantic Network Analysis of Public Data related News in Korea. Journal of Broadcasting Engineering, 23(4): 536-548.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2018. Analysis of Contract Factors in Korean Professional Baseball Free Agent (FA) Players. The Korean Association for Survey Research, Summer Conference Proceedings: Seoul, Korea.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2018. Comparative Analysis of Regional Characteristics of Apartment Prices in Seoul. The Korean Association for Survey Research, Summer Conference Proceedings: Seoul, Korea.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2018. Change Analysis of Seoul’s Commercial District by Hypermarkets. The Korean Association for Survey Research, Summer Conference Proceedings: Seoul, Korea.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2018. Phenomenological Definition of Sustainable Development based on Big data Analysis to enhance the Consistency of Policy Analysis and Evaluation. The Korea Association for Policy Analysis and Evaluation, Summer Conference Proceedings: 23-51.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2018. Study on Value Change of Public Data through Semantic Network Analysis. The Korea Association for Policy Analysis and Evaluation, Summer Conference Proceedings: 5-22.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Study on Perceptions through Big data Analysis on Gambling related News in Korea. Journal of Broadcasting Engineering, 22(4): 438-447.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Study on Social Issue with Semantic Network Analysis of News on 4th Industrial Revolution, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Discover integrated field by ko-wikipedia editor network, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Study on Industrial Trend through Big Data Analysis of Financial Network, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
@@ -52,5 +63,6 @@ I have conducted a lot of papers and researches including projects experience in
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2011. Research about China's Future and Informatization Policy. IT & Future Strategy, 7: National Information Society Agency.</div>
 
 ### Thesis for a degree
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2020 Study on Hundred Schools with view of Cultural Theory : focusing on Korea, China, Japan and Taiwan, DongBang Culture University. Thesis for a PhD in Philosophy.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2013. The advent of risk society and sustainability in Big Data Era (National Research Foundation of Korea NRF-2011-330-B00034). Advisor. Institute of IT Policy, Seoul National University of Science and Technology. Thesis for a PhD in Public Policy.</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>1998. Meta Analysis for Client Orient Distributed Processing. Computer Department of Engineering, Graduate School, Seoul National University of science and Technology.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>1998. Meta Analysis for Client Orient Distributed Processing. Computer Department of Engineering, Graduate School, Seoul National University of science and Technology. Thesis for a Master in Computer Engineering.</div>
