@@ -4,19 +4,39 @@ title: My Papers and Researches
 date: 2022-01-01 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: software.jpg # Add image post (optional)
-tags: [paper, study, research] # add tag
+tags: [paper, study, research, thesis] # add tag
 ---
 
-Church-key blog messenger bag, selfies umami man braid mlkshk. Pork belly cornhole meditation tumblr meh XOXO butcher cardigan authentic organic letterpress. Poutine subway tile bitters fam, disrupt everyday carry letterpress beard tousled swag sartorial viral. Retro af 3 wolf moon heirloom, pork belly man bun DIY chillwave. Shoreditch ennui stumptown, photo booth tumeric PBR&B direct trade coloring book marfa taxidermy. Gentrify brunch typewriter woke freegan. Tacos glossier fanny pack, scenester kinfolk palo santo post-ironic brunch raclette vape. Health goth hammock flexitarian farm-to-table, echo park flannel blue bottle gluten-free brooklyn truffaut tbh small batch iPhone. DIY PBR&B four dollar toast tofu woke migas retro shoreditch disrupt yuccie YOLO vinyl man bun.
+I have conducted a lot of papers and research including project experience in the data area.
 
-### Church-key blog messenger bag
+### Papers and Researches
 
-Tumblr bicycle rights intelligentsia, food truck migas raw denim whatever portland gastropub messenger bag chartreuse vape lomo coloring book subway tile. Yr pabst meggings tattooed four dollar toast. Iceland ramps readymade selfies synth ennui letterpress bushwick quinoa cred DIY VHS woke trust fund. Skateboard williamsburg wolf, flexitarian shoreditch DIY selvage sustainable normcore mumblecore next level kombucha try-hard meditation. Gentrify plaid microdosing, master cleanse ugh crucifix pop-up. Wolf bushwick street art tumeric. Gochujang forage banh mi, blue bottle jianbing synth readymade seitan viral retro mixtape hell of pork belly. Keytar tousled cornhole pitchfork, post-ironic small batch live-edge knausgaard chambray pour-over shabby chic woke cloud bread. Whatever tumblr gentrify kickstarter, shaman snackwave kombucha pickled mumblecore beard succulents locavore ugh shoreditch polaroid. Wayfarers crucifix tattooed twee. Yr listicle crucifix fingerstache farm-to-table. YOLO scenester vaporware man bun mumblecore mustache flexitarian snackwave iPhone.
+2016. Study about advanced National ID using eID and Play Accountment Management System, The Korea Assessment for Public policy and Evaluation of Policy. Winter Conference.
+2016. Cause Identification and Public Policy against Risk Response about Accident of Printed Lottery in Korea, The Korea Assessment for Public policy and Evaluation of Policy. Winter Conference.
+2016. Comparative  Analysis  of  e-player  card  for  gaming  customer  in  the World,	The Korea Assessment for Public policy and Evaluation of Policy. Winter Conference.
+2016. Comparative Analysis of Institution and Policy about gambling and Lottery in Korea and UK. Korea Administration & Policy Association. Winter Conference.
+2016. Global Governance about Gambling and Lottery using Sports Game Contents. Global Culture and Contents . Winter Conference.
+2016. Study on Policy Change through Meta Analysis about Wolrd Lottery studies. The Korea Association for Policy Studies, Winter conference.
+2016. Governance Phenomenon and Risk Response Policy about Internet Lottery. The Korea Association for Policy Studies, Winter conference.
+2016. Academic Trend Analysis through big data analysis about Gambling related studies, Korea Academy of Complexity Studies, Autome Conference.
+2016. Study of Public Policy through Big Data Analysis about Gambling related News, The  Korean Institute of Broadcast and Media Engineering, Autome Conference.
+2016. Trend Analysis of Trade Network in OECD Countries. Korea Information Processing Society, Spring Conference.
+2016. Study of IT Policy based on Semantic Analysis about World Big Data Studies. Seoul Administration and Public Policy Association, Spring Conference.
+2015. Study on Data Sovereignty of Internet Contents. Crisisonomy 11(3) :85∼103.
+2015. The Change of Lottery Policy in Korea: Focusing on Policy Agenda Setting. The Third Asia Pacific Conference on Gambling & Commercial Gaming Research and Summit on Lottery Development. BeiJing, China.
+2014. IT Policy of e-Government about ITSM of NCIA, Korea. Seoul Administration   and Public Policy Association, Autome Conference.
+2014. Trend of Studies Gambling & Lotteries using Big Data Analysis, 201408 GRL Conference, Macao, China.
+2014. Policy Design based on Risk at Big Data Era: Case Study of Privacy Invasion in South Korea, 201406 ASE/IEEE International Conference on Big Data. Alaska, USA.
+2014. A Study on the World Lottery Trend and Development Strategy of Lottery in Korea. Korea Society of Strategic Management Spring Conference.
+2013. Development Strategy of Lottery in Korea, Lottery Commission.
+2013. Big Data and Policy design for Data Sovereignty: A Case Study on Copyright and CCL in South Korea”, 2013 ASE/IEEE International Conference on Big Data. Washington D.C., USA.
+2013. Policy  Design  about  Big  Data  Concept  and  Data  sovereignty. Korea Information Processing Society, Spring Conference.
+2013. The Change of Lottery Policy in Korea: Focusing on Policy Agenda Setting. Doctoral  thesis, Department of Public Policy Graduate School of Public Policy and Information Technology Seoul National University of Science and Technology.
+2012. Risk based policy at big data era: Case  study  of  privacy  invasion.  Informatization  Policy, 19(4): 63-82.
+2012. Trend of Lottery studies. International Conference and Forum on Public Welfare and Gaming Industry: China, Beiging.
+2012. Study on Agenda Setting of Korean Lottery. Korean Society and Public Administration, 23(1): 287-316.
+2011. Research about China's Future and Informatization Policy. 「 IT & Future Strategy 」 , 7: National Information Society Agency.
 
-Hella lo-fi banjo, disrupt tofu prism raclette. Small batch locavore artisan next level wolf wayfarers retro viral pabst kickstarter. Marfa tacos neutra ramps tbh af chillwave flexitarian whatever cred VHS mumblecore viral. Hell of retro vegan chambray tacos VHS four dollar toast tote bag. Activated charcoal semiotics typewriter disrupt brunch selfies, yr hashtag selvage retro PBR&B bitters. Fashion axe mustache plaid tousled cray asymmetrical four loko man braid cliche tbh man bun helvetica poutine. Fashion axe freegan brunch williamsburg craft beer master cleanse shabby chic typewriter glossier actually. Plaid tumblr hexagon neutra slow-carb mumblecore. Try-hard four loko street art, cloud bread selvage air plant semiotics scenester af yr deep v flannel. Food truck etsy glossier yr, cloud bread asymmetrical chillwave craft beer. Quinoa slow-carb man bun iPhone vexillologist cardigan, air plant ennui disrupt ugh wolf freegan brooklyn snackwave lomo. Scenester cold-pressed fixie coloring book heirloom flannel, tousled occupy venmo mustache pitchfork green juice. VHS neutra 8-bit roof party. Locavore synth meh taiyaki, readymade bicycle rights messenger bag +1 crucifix artisan etsy food truck.
-
-### Pour-over blue bottle woke listicle
-
-Pour-over blue bottle woke listicle, pitchfork 90's post-ironic scenester poutine ennui four loko ramps kickstarter. Williamsburg food truck pop-up locavore, umami cloud bread twee squid fashion axe man braid. Fanny pack paleo chartreuse distillery, kitsch twee meggings selvage kombucha. Keffiyeh actually prism listicle. Taxidermy authentic iPhone migas vegan copper mug. Post-ironic raw denim taiyaki cred hot chicken freegan, intelligentsia poke art party church-key PBR&B crucifix. Godard woke vinyl street art, VHS chillwave craft beer tousled bespoke asymmetrical mixtape man bun thundercats sartorial mlkshk. Meggings heirloom XOXO gentrify try-hard stumptown. Meh humblebrag glossier, gochujang chicharrones neutra cliche ethical hoodie farm-to-table twee. Messenger bag offal pug bespoke, put a bird on it tote bag literally.
-
-Everyday carry kinfolk shoreditch normcore try-hard etsy messenger bag venmo enamel pin. Try-hard fanny pack thundercats farm-to-table retro twee. Godard photo booth tofu 90's. Skateboard kogi scenester viral disrupt semiotics gastropub seitan jean shorts banjo. Humblebrag knausgaard waistcoat mixtape. Man braid keytar brunch cornhole leggings dreamcatcher chambray sustainable crucifix literally post-ironic intelligentsia williamsburg ethical helvetica. Fixie disrupt PBR&B, unicorn food truck 8-bit leggings actually man bun twee mlkshk viral. Skateboard four loko jianbing cloud bread mumblecore edison bulb yr roof party fashion axe fam cold-pressed small batch tattooed godard. Bushwick yuccie thundercats schlitz listicle skateboard quinoa. Gentrify hot chicken pop-up keytar master cleanse pork belly. Irony pitchfork la croix neutra freegan. Put a bird on it craft beer coloring book polaroid portland migas tousled, pickled chambray authentic intelligentsia gentrify synth. Letterpress tumblr wolf normcore selvage. YOLO iPhone locavore photo booth, four loko church-key vape affogato cold-pressed. Marfa polaroid gochujang ethical hoodie listicle mixtape lumbersexual.
+### Thesis for a degree
+2013. The advent of risk society and sustainability in Big Data Era (National Research Foundation of Korea NRF-2011-330-B00034). Advisor. Institute of IT Policy, Seoul National University of Science and Technology. Thesis for a PhD in Public Policy
+1998. Meta Analysis for Client Orient Distributed Processing. Computer Department of Engineering, Graduate School, Seoul National University of science and Technology.
