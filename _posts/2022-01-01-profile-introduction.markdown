@@ -8,7 +8,8 @@ img: sky.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
-I am always enjoy life and learning somthing.
+
+I am always enjoy life, learning something and adventure new world and technology.
 
 ### Contact
 * Name: HyeJung Moon(文惠楨)
