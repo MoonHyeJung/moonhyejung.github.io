@@ -8,7 +8,7 @@ img: software.jpg # Add image post (optional)
 tags: [paper, study, research, thesis] # add tag
 ---
 
-I have conducted a lot of papers and researches including projects experience in the data area.
+I have conducted a lot of papers and researches including projects experience in the data area since 1998.
 
 ### Thesis for a degree
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2020. Study on Hundred Schools with view of Cultural Theory : focusing on Korea, China, Japan and Taiwan, DongBang Culture University. Thesis for a PhD in Philosophy.</div>
@@ -30,7 +30,7 @@ I have conducted a lot of papers and researches including projects experience in
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2012. Risk based policy at big data era: Case study of privacy invasion. Informatization Policy, 19(4): 63-82.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2012. Study on Agenda Setting of Korean Lottery. Korean Society and Public Administration, 23(1): 287-316.</div>
 
-### Proceeings
+### Proceeing Papers
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2021. Study on Delivery Service related on 4th Industrial Revolution Technology using SNS Big data, Inspiring Insight in Business Society, Convergence Conference: 582-603.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2021. Semantic Analysis of Previous Study on Artificial Intelligence in the World, Digital Contents Society, Summer Conference: JeJu, Korea.
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2018. Analysis of Contract Factors in Korean Professional Baseball Free Agent (FA) Players. The Korean Association for Survey Research, Summer Conference: Seoul, Korea.</div>

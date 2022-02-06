@@ -11,7 +11,7 @@ tags: [Holidays, Hawaii]
 
 I am always enjoy life, learning something and adventure new world and technology.
 
-### Contact
+### Contact Information
 * Name: HyeJung Moon(文惠楨)
 * email: hyejung.moon@gmail.com 
 * Birth: 12. August. 1972
@@ -23,10 +23,10 @@ I am always enjoy life, learning something and adventure new world and technolog
 * Chairman, [Cooperative Lottery Institute](http://www.lotterypolicy.com)
 
 ### Education
-* 2020.02. Ph.D in Philosophy, DongBang Culture University
-* 2013.02. Ph.D in Public Policy, Seoul National University of Science & Technology
-* 1998.02. Master in Computer Science, Seoul National University of Science & Technology
-* 1995.02. Bachelor in Computer Science, Seoul National University of Science & Technology
+* 2020.02. Ph.D in Philosophy, DongBang Culture University.
+* 2013.02. Ph.D in Public Policy, Seoul National University of Science and Technology.
+* 1998.02. Master in Computer Science, Seoul National University of Science and Technology.
+* 1995.02. Bachelor in Computer Science, Seoul National University of Science and Technology.
 
 ### License
 * 2012.06. Global Real Estate Agency by Seoul, Korea

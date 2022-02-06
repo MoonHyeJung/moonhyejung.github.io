@@ -30,8 +30,8 @@ I have been working in IT-related companies in data analysis, data marketing, bu
 ### Lectures(Subjects, Organization)
 * 2021.10 ~ 2021.12\. R/SQL/Visulaization, Korea Asset Management Corporation.
 * 2021.06 ~ 2021.06\. SQL Basinc, SK BroadBand.
-* 2020.10 ~ 2021.11\. R, Kamco Fund Analysis for Personal Debt, Korea Asset Management Corporation.
-* 2020.04 ~ 2021.06\. R, Happy Fund Analysis for Personal Debt, Korea Asset Management Corporation.
+* 2020.10 ~ 2020.11\. R, Kamco Fund Analysis for Personal Debt, Korea Asset Management Corporation.
+* 2020.04 ~ 2020.06\. R, Happy Fund Analysis for Personal Debt, Korea Asset Management Corporation.
 * 2019.09 ~ present\. Big Data Analysis and Mobile App, SeJong University.
 * 2018.09 ~ 2018.12\. Analyisis and Evaluation of Public Policy, Seoul National University of Science and Technology.
 * 2018.10\.           BigData and BlockChain Usecases, Asia Pacific Lottery Association.
