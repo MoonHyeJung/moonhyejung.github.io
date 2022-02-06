@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Careers and Lectures
-updated: 2022-01-01 14:00:00 +0300 #표시날짜
-date: 2022-01-01 14:00:00 +0300 #정렬순서
+updated: 2022-01-01 11:00:00 +0300 #표시날짜
+date: 2022-01-01 11:00:00 +0300 #정렬순서
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: how-to-start.jpg # Add image post (optional)
-tags: [Programming, Learn] # add tag
+tags: [Careers, Lectures] # add tag
 ---
 I have been working in IT-related companies in data analysis, data marketing, business intelligence, olap, and dw since 1995. In the 1990s. I have lectured on new technologies related to simulation, virtual reality, and web services for companies. Since 2000, I have been giving various lectures on data analysis for companies and universities.
 
