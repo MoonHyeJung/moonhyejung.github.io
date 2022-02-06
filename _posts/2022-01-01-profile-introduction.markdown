@@ -17,9 +17,9 @@ Birth: 12. August. 1972
 Fax: 82-(0)505-911-2054
 
 ### Position
-Professor focusinf on industry-university cooperation, SeJong University.
-President, Institute of Lottery Policy(http://www.lotterypolicy.com)
-Chairman, Cooperative Lottery Institute
+Professor focusinf on industry-university cooperation, [SeJong University](http://www.sejong.ac.kr/)
+President, [Institute of Lottery Policy](http://www.lotterypolicy.com)
+Chairman, [Cooperative Lottery Institute](http://www.lotterypolicy.com)
 
 ### Education
 2020.02. Ph.D in Philosophy, DongBang Culture University
