@@ -11,31 +11,30 @@ tags: [Holidays, Hawaii]
 I am always enjoy life and learning somthing.
 
 ### Contact
-Name: HyeJung Moon(文惠楨)
-email: hyejung.moon@gmail.com 
-Birth: 12. August. 1972
-Fax: 82-(0)505-911-2054
+* Name: HyeJung Moon(文惠楨)
+* email: hyejung.moon@gmail.com 
+* Birth: 12. August. 1972
+* Fax: 82-(0)505-911-2054
 
 ### Position
-Professor focusinf on industry-university cooperation, [SeJong University](http://www.sejong.ac.kr/)
-President, [Institute of Lottery Policy](http://www.lotterypolicy.com)
-Chairman, [Cooperative Lottery Institute](http://www.lotterypolicy.com)
+* Professor focusinf on industry-university cooperation, [SeJong University](http://www.sejong.ac.kr/)
+* President, [Institute of Lottery Policy](http://www.lotterypolicy.com)
+* Chairman, [Cooperative Lottery Institute](http://www.lotterypolicy.com)
 
 ### Education
-2020.02. Ph.D in Philosophy, DongBang Culture University
-2013.02. Ph.D in Public Policy, Seoul National University of Science & Technology
-1998.02. Master in Computer Science, Seoul National University of Science & Technology
-1995.02. Bachelor in Computer Science, Seoul National University of Science & Technology
+* 2020.02. Ph.D in Philosophy, DongBang Culture University
+* 2013.02. Ph.D in Public Policy, Seoul National University of Science & Technology
+* 1998.02. Master in Computer Science, Seoul National University of Science & Technology
+* 1995.02. Bachelor in Computer Science, Seoul National University of Science & Technology
 
 ### License
-
-2012.06. Global Real Estate Agency by Seoul, Korea
-2009.11. ISO27001 Auditor by International Standard Organization 2007.06: PMP by PMI, USA 
-2007.06. Auditor of IT system by Post Office, Korea
-2005.11. Public Agency of Real Estate by Ministry of Construction & Trasportation
-2003.08. CISA(Certified Information  Systems  Auditor)  by ISACA, USA
-2002.05. BusinessObjects 1st Level Technical Supporter by BusinessObjects, France 
-1997.08. Scuba Licence by BSAC(British Scuba Association Club), UK
-1995.06. Professional Engineer of Structure on Electronic calculator by Human Resources Development Service of Korea(HRDSK)
-1995.07. Amateur Wireless Technical engineer by HRDSK
-1994.10. Professional Engineer of Information Processing Engineer by HRDSK
+* 2012.06. Global Real Estate Agency by Seoul, Korea
+* 2009.11. ISO27001 Auditor by International Standard Organization 2007.06: PMP by PMI, USA 
+* 2007.06. Auditor of IT system by Post Office, Korea
+* 2005.11. Public Agency of Real Estate by Ministry of Construction & Trasportation
+* 2003.08. CISA(Certified Information  Systems  Auditor)  by ISACA, USA
+* 2002.05. BusinessObjects 1st Level Technical Supporter by BusinessObjects, France 
+* 1997.08. Scuba Licence by BSAC(British Scuba Association Club), UK
+* 1995.06. Professional Engineer of Structure on Electronic calculator by Human Resources Development Service of Korea(HRDSK)
+* 1995.07. Amateur Wireless Technical engineer by HRDSK
+* 1994.10. Professional Engineer of Information Processing Engineer by HRDSK
