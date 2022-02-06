@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Papers and Researches
+title: Papers and Researches
 date: 2022-01-01 12:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: software.jpg # Add image post (optional)
@@ -36,7 +36,7 @@ I have conducted a lot of papers and researches including projects experience in
 - 2016\. Study of Public Policy through Big Data Analysis about Gambling related News, The Korean Institute of Broadcast and Media Engineering, Autome Conference.
 - 2016\. Trend Analysis of Trade Network in OECD Countries. Korea Information Processing Society, Spring Conference.
 - 2016\. Study of IT Policy based on Semantic Analysis about World Big Data Studies. Seoul Administration and Public Policy Association, Spring Conference.
-- 2015\. Study on Data Sovereignty of Internet Contents. Crisisonomy 11(3): 85∼103.
+- 2015\. Study on Data Sovereignty of Internet Contents. Crisisonomy 11(3): 85-103.
 - 2015\. The Change of Lottery Policy in Korea: Focusing on Policy Agenda Setting. The Third Asia Pacific Conference on Gambling & Commercial Gaming Research and Summit on Lottery Development. BeiJing, China.
 - 2014\. IT Policy of e-Government about ITSM of NCIA, Korea. Seoul Administration and Public Policy Association, Autome Conference.
 - 2014\. Trend of Studies Gambling & Lotteries using Big Data Analysis, GRL Conference, Macao, China.
