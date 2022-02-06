@@ -10,6 +10,16 @@ tags: [paper, study, research, thesis] # add tag
 I have conducted a lot of papers and researches including projects experience in the data area.
 
 ### Papers and Researches
+- 2017 Study on Social Issue with Semantic Network Analysis of News on 4th Industrial Revolution, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.
+- 2017 Discover integrated field by ko-wikipedia editor network, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.
+- 2017 Study on Industrial Trend through Big Data Analysis of Financial Network, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.
+- 2017 Study on Media Frame of News in Politics, Culture and Economy with Big Data Analysis, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.
+- 2017 Characteristics Analysis of OECD State Lottery Sales Volume with perspective of Game, Technology, Culture, Economy, and Policy, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.
+- 2017 Analysis of traffic research trend through big data analysis of world traffic related research, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.
+- 2017 Analysis of network trend in the mobile communication field research, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.
+- 2017 Analysis of market district hinterland in Seoul by ‘Big Data’ analysis, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.
+- 2017 Developing K POP localization strategy using Big Data : Focusing on customer response via Twitter, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.
+- 2017 Ecosystem Design of Big Data as a Public Goods with Semantic Analysis on Studies in the World, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.
 - 2017 Ecosystem Design of Big Data through Previous Study Analysis in the World: Policy Design for Big Data as Public Goods, IEEE BigData Congress. Hawaii, USA.
 - 2017 Comparison of Gambling Industry through Study Analysis in the World, IEEE BigData Congress. Hawaii, USA.
 - 2017 Big data Analysis on Gambling related News in Korea, IEEE BigData Congress. Hawaii, USA.
