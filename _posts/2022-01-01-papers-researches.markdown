@@ -10,6 +10,11 @@ tags: [paper, study, research, thesis] # add tag
 I have conducted a lot of papers and researches including projects experience in the data area.
 
 ### Papers and Researches
+- 2017 Ecosystem Design of Big Data through Previous Study Analysis in the World: Policy Design for Big Data as Public Goods, IEEE BigData Congress. Hawaii, USA.
+- 2017 Comparison of Gambling Industry through Study Analysis in the World, IEEE BigData Congress. Hawaii, USA.
+- 2017 Big data Analysis on Gambling related News in Korea, IEEE BigData Congress. Hawaii, USA.
+- 2017 Semantic Analysis of Transportation related Researches, IEEE BigData Congress. Hawaii, USA.
+- 2017 Governance Types and Risk Response Policy in Internet Lottery, Crisisonomy 13( 2), 17
 - 2016 Study about advanced National ID using eID and Play Accountment Management System, The Korea Assessment for Public policy and Evaluation of Policy. Winter Conference.
 - 2016 Cause Identification and Public Policy against Risk Response about Accident of Printed Lottery in Korea, The Korea Assessment for Public policy and Evaluation of Policy. Winter Conference.
 - 2016 Comparative  Analysis  of  e-player  card  for  gaming  customer  in  the World,	The Korea Assessment for Public policy and Evaluation of Policy. Winter Conference.
@@ -24,11 +29,10 @@ I have conducted a lot of papers and researches including projects experience in
 - 2015 Study on Data Sovereignty of Internet Contents. Crisisonomy 11(3) :85∼103.
 - 2015 The Change of Lottery Policy in Korea: Focusing on Policy Agenda Setting. The Third Asia Pacific Conference on Gambling & Commercial Gaming Research and Summit on Lottery Development. BeiJing, China.
 - 2014 IT Policy of e-Government about ITSM of NCIA, Korea. Seoul Administration   and Public Policy Association, Autome Conference.
-- 2014 Trend of Studies Gambling & Lotteries using Big Data Analysis, 201408 GRL Conference, Macao, China.
+- 2014 Trend of Studies Gambling & Lotteries using Big Data Analysis, GRL Conference, Macao, China.
 - 2014 Policy Design based on Risk at Big Data Era: Case Study of Privacy Invasion in South Korea, ASE/IEEE International Conference on Big Data. Alaska, USA.
 - 2014 A Study on the World Lottery Trend and Development Strategy of Lottery in Korea. Korea Society of Strategic Management Spring Conference.
-- 2013 Development Strategy of Lottery in Korea, Lottery Commission.
-- 2013 Big Data and Policy design for Data Sovereignty: A Case Study on Copyright and CCL in South Korea, 2013 ASE/IEEE International Conference on Big Data. Washington D.C., USA.
+- 2013 Development Strategy of Lottery in Korea, Lottery CommissionBig Data and Policy design for Data Sovereignty: A Case Study on Copyright and CCL in South Korea, 2013 ASE/IEEE International Conference on Big Data. Washington D.C., USA.
 - 2013 Policy  Design  about  Big  Data  Concept  and  Data  sovereignty. Korea Information Processing Society, Spring Conference.
 - 2013 The Change of Lottery Policy in Korea: Focusing on Policy Agenda Setting. Doctoral  thesis, Department of Public Policy Graduate School of Public Policy and Information Technology Seoul National University of Science and Technology.
 - 2012 Risk based policy at big data era: Case  study  of  privacy  invasion.  Informatization  Policy, 19(4): 63-82.
