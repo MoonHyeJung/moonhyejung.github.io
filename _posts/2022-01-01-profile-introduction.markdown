@@ -4,7 +4,7 @@ title: Profile and Introduction
 updated: 2022-01-01 13:00:00 +0300 #표시날짜
 date: 2022-01-01 13:00:00 +0300 #정렬순서
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: attene.jpg # Add image post (optional)
+img: sky.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
