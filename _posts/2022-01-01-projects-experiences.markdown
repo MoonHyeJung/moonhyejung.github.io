@@ -7,7 +7,8 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: how-to-start.jpg # Add image post (optional)
 tags: [Projects, Experiences] # add tag
 ---
-I have been working in IT-related companies in data analysis, data marketing, business intelligence, olap, and dw since 1995. In the 1990s. I have lectured on new technologies related to simulation, virtual reality, and web services for companies. Since 2000, I have been giving various lectures on data analysis for companies and universities.
+
+I have been working in IT-related companies in data analysis, data marketing, business intelligence, olap, and dw since 1995. In the 1990s. 
 
 ### Projects(Role, Project Name, Customer)
 2022.01\.           Advisory, Evaluation of Public Data Company Matching Project Closing, National Information Society Agency.

@@ -7,7 +7,8 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: software.jpg # Add image post (optional)
 tags: [Careers, Lectures] # add tag
 ---
-I have been working in IT-related companies in data analysis, data marketing, business intelligence, olap, and dw since 1995. In the 1990s. I have lectured on new technologies related to simulation, virtual reality, and web services for companies. Since 2000, I have been giving various lectures on data analysis for companies and universities.
+
+I have lectured on new technologies related to simulation, virtual reality, and web services for companies. Since 2000, I have been giving various lectures on data analysis for companies and universities.
 
 ### Careers(Title, Company)
 * 2020.01 ~ 2021.12\. Member of Advisory Committee, 	KangwonLand Addiction Care Center.
