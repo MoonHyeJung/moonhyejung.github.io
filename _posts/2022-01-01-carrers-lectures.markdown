@@ -18,7 +18,7 @@ I have lectured on new technologies related to simulation, virtual reality, and 
 * 2017.06 ~ 2018.06\. Instructor for BigData Aalysis, [THEJOEUN ACADEMY Corp](https://www.tjoeun.co.kr/).
 * 2017.06 ~ 2018.05\. Director for Big Data Consultiong, WillbeSolution.
 * 2016.07 ~ present\. Chairman, [Cooperative Lottery Institute](http://www.lotterypolicy.com/).
-* 2015.10 ~ 2016.06\. Manager, Lottery TF, [Canon Korea](www.canon-bs.co.kr) 
+* 2015.10 ~ 2016.06\. Manager, Lottery TF, [Canon Korea](https://www.canon-bs.co.kr/main/) 
 * 2015.03 ~ present\. Adjunct Professor, Department of Public Policy, [Seoul National University of Science and Technology](https://www.seoultech.ac.kr/).
 * 2013.03 ~ 2013.12\. Researcher, Institute of IT Policy, SeoulTech
 * 2010.01 ~ 2010.06\. Adjunct Professor, Department of Computer Science, [Seoul National University of Science and Technology](https://www.seoultech.ac.kr/).
