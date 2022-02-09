@@ -35,7 +35,7 @@ I am always enjoy life, learning something and adventure new world and technolog
 * 2005.11. Public Agency of Real Estate by Ministry of Construction & Trasportation
 * 2003.08. CISA(Certified Information  Systems  Auditor)  by ISACA, USA
 * 2002.05. BusinessObjects 1st Level Technical Supporter by BusinessObjects, France 
-* 1997.08. Scuba Licence by BSAC(British Scuba Association Club), UK
+* 1997.08. BSAC(British Scuba Association Club), UK
 * 1995.06. Professional Engineer of Structure on Electronic calculator by Human Resources Development Service of Korea(HRDSK)
 * 1995.07. Amateur Wireless Technical engineer by HRDSK
 * 1994.10. Professional Engineer of Information Processing Engineer by HRDSK

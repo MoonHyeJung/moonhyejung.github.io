@@ -11,22 +11,24 @@ tags: [Careers, Lectures] # add tag
 I have lectured on new technologies related to simulation, virtual reality, and web services for companies. Since 2000, I have been giving various lectures on data analysis for companies and universities.
 
 ### Careers(Title, Company)
-* 2020.01 ~ 2021.12\. Member of Advisory Committee, 	KangwonLand Addiction Care Center.
-* 2019.09 ~ present\. Professor focusinf on industry-university cooperation, SeJong University.
-* 2017.07 ~ present\. Auditor, Code Club Korea Committee.
-* 2017.06 ~ 2018.06\. Instructor for BigData Aalysis, THEJOEUN ACADEMY Corp.
+* 2022.02 ~ present\. Women in Services Computing Committee, [IEEE Technical Community on Services Computing](http://tab.computer.org/tcsvc/).
+* 2020.01 ~ 2021.12\. Member of Advisory Committee, [KangwonLand Addiction Care Center](https://kangwonland.high1.com/klacc/index.do).
+* 2019.09 ~ present\. Professor focusinf on industry-university cooperation, [SeJong University](http://www.sejong.ac.kr/).
+* 2017.07 ~ present\. Auditor, [Code Club Korea Committee](https://ko-kr.facebook.com/codeclubkorea/).
+* 2017.06 ~ 2018.06\. Instructor for BigData Aalysis, [THEJOEUN ACADEMY Corp](https://www.tjoeun.co.kr/).
 * 2017.06 ~ 2018.05\. Director for Big Data Consultiong, WillbeSolution.
-* 2015.10 ~ 2016.06\. Manager, Lottery TF, Canon Korea(www.canon-bs.co.kr) 
-* 2015.03 ~ present\. Adjunct Professor, Department of Public Policy, SeoulTech 
+* 2016.07 ~ present\. Chairman, [Cooperative Lottery Institute](http://www.lotterypolicy.com/).
+* 2015.10 ~ 2016.06\. Manager, Lottery TF, [Canon Korea](www.canon-bs.co.kr) 
+* 2015.03 ~ present\. Adjunct Professor, Department of Public Policy, [Seoul National University of Science and Technology](https://www.seoultech.ac.kr/).
 * 2013.03 ~ 2013.12\. Researcher, Institute of IT Policy, SeoulTech
-* 2010.01 ~ 2010.06\. Adjunct Professor, Department of Computer Science, SeoulTech 
-* 2009.08 ~ present\. President, Institute of Lottery Policy
-* 2006.04 ~ 2009.03\. IT Advisor, Korea Lottery Association 
-* 2003.01 ~ 2005.05\. DW/OLAP/CRM, KCC Solutions
-* 2001.06 ~ 2002.12\. OLAP/DW, KCC Information & Telecommunication(http://kcc.co.kr) 
-* 2000.01 ~ 2001.06\. DB Marketing, Hansol CSN(hansolcsn.co.kr)
-* 1996.08 ~ 1999.11\. Simulation/ERP, KCC Information & Telecommunication 
-* 1995.01 ~ 1996.07\. CIM/FA, DaeSang Iformation (http://deasangit.com)
+* 2010.01 ~ 2010.06\. Adjunct Professor, Department of Computer Science, [Seoul National University of Science and Technology](https://www.seoultech.ac.kr/).
+* 2009.08 ~ present\. President, [Institute of Lottery Policy](http://www.lotterypolicy.com/).
+* 2006.04 ~ 2009.03\. IT Advisor, Korea Lottery Association.
+* 2003.01 ~ 2005.05\. DW/OLAP/CRM, KCC Solutions.
+* 2001.06 ~ 2002.12\. OLAP/DW, [KCC Information & Telecommunication](http://kcc.co.kr).
+* 2000.01 ~ 2001.06\. DB Marketing, [Hansol CSN](hansolcsn.co.kr)(http://kcc.co.kr).
+* 1996.08 ~ 1999.11\. Simulation/ERP, [KCC Information & Telecommunication](http://kcc.co.kr).
+* 1995.01 ~ 1996.07\. CIM/FA, [DaeSang Iformation] (http://deasangit.com).
 
 ### Lectures(Subjects, Organization)
 * 2021.10 ~ 2021.12\. R/SQL/Visulaization, Korea Asset Management Corporation.
