@@ -8,7 +8,7 @@ img: software.jpg # Add image post (optional)
 tags: [Careers, Lectures] # add tag
 ---
 
-I have lectured on new technologies related to simulation, virtual reality, and web services for companies. Since 2000, I have been giving various lectures on data analysis for companies and universities.
+I have lectured on new technologies related to simulation, virtual reality, and web services for companies. Since 2000, I have given various lectures on data analysis for companies and universities.
 
 ### Careers(Title, Company)
 * 2022.02 ~ present\. Women in Services Computing Committee, [IEEE Technical Community on Services Computing](http://tab.computer.org/tcsvc/).
