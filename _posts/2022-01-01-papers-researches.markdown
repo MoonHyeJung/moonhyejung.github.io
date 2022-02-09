@@ -8,7 +8,7 @@ img: joseon.jpg # Add image post (optional)
 tags: [paper, study, research, thesis] # add tag
 ---
 
-I have conducted a lot of papers and researches including projects experience in the data area since 1998.
+I have conducted a lot of papers and researches including project experience in the data area since 1998.
 
 ### Thesis for a degree
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2020. Study on Hundred Schools with view of Cultural Theory : focusing on Korea, China, Japan and Taiwan, DongBang Culture University. Thesis for a PhD in Philosophy.</div>
