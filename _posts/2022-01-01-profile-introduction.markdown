@@ -39,3 +39,14 @@ I am always enjoy life, learning something and adventure new world and technolog
 * 1995.06. Professional Engineer of Structure on Electronic calculator by Human Resources Development Service of Korea(HRDSK)
 * 1995.07. Amateur Wireless Technical engineer by HRDSK
 * 1994.10. Professional Engineer of Information Processing Engineer by HRDSK
+
+### Skill and Technology
+* DataBase: Oracle(Excellent), MySQL(Excellent), MongoDB(Good), MSSQL(Good), TeraDB(Good), Sybase(Good)
+* Operationg System: Window(Excellent), Solaris(Good), Linux(Good: CentOS, Ubuntu)
+* Programming Language: Delphi(Excellent), PowerBuilder(Excellent), Python(Good), JAVA(Good), ASP(Good), JSP(Good), PHP(Good), C#(Good)
+* Analysis Tool: R(Excellent), BusinessObjects(Excellent), SPSS(Good)
+* ETTL, HDFS: DataStage(Excellent), Hadoop(Good), Meta Search Engine(Good)
+* Web Server: IIS(Good), Apache(Good), OAS(Good), 
+* ERP: BPCS(Good), SAP(Good)
+* Simulation/VR: Witness(Excellent)
+* Foriegn Language: English(Excellent), Chinese character(Good), Chiness(Good)
