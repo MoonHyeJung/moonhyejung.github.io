@@ -18,9 +18,10 @@ I am always enjoy life, learning something and adventure new world and technolog
 * Fax: 82-(0)505-911-2054
 
 ### Position
-* Professor focusinf on industry-university cooperation, [SeJong University](http://www.sejong.ac.kr/)
-* President, [Institute of Lottery Policy](http://www.lotterypolicy.com)
-* Chairman, [Cooperative Lottery Institute](http://www.lotterypolicy.com)
+* Women in Services Computing Committee, [IEEE Technical Community on Services Computing](http://tab.computer.org/tcsvc/).
+* Professor focusinf on industry-university cooperation, [SeJong University](http://www.sejong.ac.kr/).
+* President, [Institute of Lottery Policy](http://www.lotterypolicy.com).
+* Chairman, [Cooperative Lottery Institute](http://www.lotterypolicy.com).
 
 ### Education
 * 2020.02. Ph.D in Philosophy, DongBang Culture University.
