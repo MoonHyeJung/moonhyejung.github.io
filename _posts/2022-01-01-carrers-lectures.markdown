@@ -25,10 +25,10 @@ I have lectured on new technologies related to simulation, virtual reality, and 
 * 2009.08 ~ present\. President, [Institute of Lottery Policy](http://www.lotterypolicy.com/).
 * 2006.04 ~ 2009.03\. IT Advisor, Korea Lottery Association.
 * 2003.01 ~ 2005.05\. DW/OLAP/CRM, KCC Solutions.
-* 2001.06 ~ 2002.12\. OLAP/DW, [KCC Information & Telecommunication](http://kcc.co.kr).
-* 2000.01 ~ 2001.06\. DB Marketing, [Hansol CSN](hansolcsn.co.kr)(http://kcc.co.kr).
-* 1996.08 ~ 1999.11\. Simulation/ERP, [KCC Information & Telecommunication](http://kcc.co.kr).
-* 1995.01 ~ 1996.07\. CIM/FA, [DaeSang Iformation] (http://deasangit.com).
+* 2001.06 ~ 2002.12\. OLAP/DW, [KCC Information & Telecommunication](https://main.kcc.co.kr/).
+* 2000.01 ~ 2001.06\. DB Marketing, [Hansol CSN](https://www.hansollogistics.com/).
+* 1996.08 ~ 1999.11\. Simulation/ERP, [KCC Information & Telecommunication](https://main.kcc.co.kr/).
+* 1995.01 ~ 1996.07\. CIM/FA, [DaeSang Iformation & Telecommunication] (https://www.daesangit.com/).
 
 ### Lectures(Subjects, Organization)
 * 2021.10 ~ 2021.12\. R/SQL/Visulaization, Korea Asset Management Corporation.
