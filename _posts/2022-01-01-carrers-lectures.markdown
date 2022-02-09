@@ -28,7 +28,7 @@ I have lectured on new technologies related to simulation, virtual reality, and 
 * 2001.06 ~ 2002.12\. OLAP/DW, [KCC Information & Telecommunication](https://main.kcc.co.kr/).
 * 2000.01 ~ 2001.06\. DB Marketing, [Hansol CSN](https://www.hansollogistics.com/).
 * 1996.08 ~ 1999.11\. Simulation/ERP, [KCC Information & Telecommunication](https://main.kcc.co.kr/).
-* 1995.01 ~ 1996.07\. CIM/FA, [DaeSang Iformation & Telecommunication] (https://www.daesangit.com/).
+* 1995.01 ~ 1996.07\. CIM/FA, [DaeSang Iformation & Telecommunication](https://www.daesangit.com/).
 
 ### Lectures(Subjects, Organization)
 * 2021.10 ~ 2021.12\. R/SQL/Visulaization, Korea Asset Management Corporation.
@@ -39,7 +39,7 @@ I have lectured on new technologies related to simulation, virtual reality, and 
 * 2018.10\.           BigData and BlockChain Usecases, Asia Pacific Lottery Association.
 * 2018.07\.	          Big data analysis practice, DongBang Culture University.
 * 2017.09 ~ 2018.12\. Big Data Analysis and Visulaization using R, THEJOEUN ACADEMY Corp.
-* 2017.06 ~ 2018.12\. Big Data Analysis((Java,R,SQL,Python,Hadoop,NoSQL)), THEJOEUN ACADEMY Corp.
+* 2017.06 ~ 2018.12\. Big Data Analysis(Java,R,SQL,Python,Hadoop,NoSQL), THEJOEUN ACADEMY Corp.
 * 2017.05.  	      Big Data Insight, Ewha University.
 * 2016.09 ~ 2016.12\. Standard and Security in Horse Racing and Lottery 
 * 2015.09 ~ 2015.12\. Big Data & Sports Betting, Seoul National University of Science and Technology.
