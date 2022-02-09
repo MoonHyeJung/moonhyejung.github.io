@@ -9,7 +9,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Profile, Introduction, Education, License, Skill, Technology]
 ---
 
-I am always enjoying life, learning something and adventure new world and technology.
+I am always enjoying life, learning something and adventure of new world and technology.
 
 ### Contact Information
 * Name: HyeJung Moon(文惠楨)
