@@ -19,7 +19,7 @@ I am always enjoying life, learning something and adventure of new world and tec
 
 ### Position
 * Women in Services Computing Committee, [IEEE Technical Community on Services Computing](http://tab.computer.org/tcsvc/).
-* Professor focusing on industry-university cooperation, [SeJong University](http://www.sejong.ac.kr/).
+* Auditor, [Code Club Korea Committee](https://ko-kr.facebook.com/codeclubkorea/).
 * President, [Institute of Lottery Policy](http://www.lotterypolicy.com).
 * Chairman, [Cooperative Lottery Institute](http://www.lotterypolicy.com).
 
