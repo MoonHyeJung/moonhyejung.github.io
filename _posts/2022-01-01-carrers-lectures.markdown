@@ -13,7 +13,7 @@ I have lectured on new technologies related to simulation, virtual reality, and 
 ### Careers(Title, Company)
 * 2022.02 ~ present\. Women in Services Computing Committee, [IEEE Technical Community on Services Computing](http://tab.computer.org/tcsvc/).
 * 2020.01 ~ 2021.12\. Member of Advisory Committee, [KangwonLand Addiction Care Center](https://kangwonland.high1.com/klacc/index.do).
-* 2019.09 ~ 2022.02\. Professor focusinf on industry-university cooperation, [SeJong University](http://www.sejong.ac.kr/).
+* 2019.09 ~ 2022.02\. Professor focusing on industry-university cooperation, [SeJong University](http://www.sejong.ac.kr/).
 * 2017.07 ~ present\. Auditor, [Code Club Korea Committee](https://ko-kr.facebook.com/codeclubkorea/).
 * 2017.06 ~ 2018.06\. Instructor for BigData Aalysis, [THEJOEUN ACADEMY Corp](https://www.tjoeun.co.kr/).
 * 2017.06 ~ 2018.05\. Director for Big Data Consultiong, WillbeSolution.
