@@ -19,7 +19,7 @@ I am always enjoying life, learning something and adventure of new world and tec
 
 ### Position
 * Doctoral Student, Graduate School of Public Policy and IT, [Seoul National University of Science & Technology](https://www.seoultech.ac.kr/).
-* Advisory, [KangWon Land](https://kangwonland.high1.com/)
+* Member of Advisory Committee, [KangWon Land](https://kangwonland.high1.com/)
 * Women in Services Computing Committee, [IEEE Technical Community on Services Computing](http://tab.computer.org/tcsvc/).
 * Auditor, [Code Club Korea Committee](https://ko-kr.facebook.com/codeclubkorea/).
 * President, [Institute of Lottery Policy](http://www.lotterypolicy.com).
