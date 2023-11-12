@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Profile and Introduction
-updated: 2022-01-01 13:00:00 +0300 #표시날짜
-date: 2022-01-01 13:00:00 +0300 #정렬순서
+updated: 2023-11-01 13:00:00 +0300 #표시날짜
+date: 2023-11-01 13:00:00 +0300 #정렬순서
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: sky.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
@@ -19,6 +19,7 @@ I am always enjoying life, learning something and adventure of new world and tec
 
 ### Position
 * Doctoral Student, Graduate School of Public Policy and IT, [Seoul National University of Science & Technology](https://www.seoultech.ac.kr/).
+* Advisory, [KangWon Land](https://kangwonland.high1.com/)
 * Women in Services Computing Committee, [IEEE Technical Community on Services Computing](http://tab.computer.org/tcsvc/).
 * Auditor, [Code Club Korea Committee](https://ko-kr.facebook.com/codeclubkorea/).
 * President, [Institute of Lottery Policy](http://www.lotterypolicy.com).
