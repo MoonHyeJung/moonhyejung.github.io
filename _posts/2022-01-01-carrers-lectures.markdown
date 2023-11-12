@@ -32,6 +32,7 @@ I have lectured on new technologies related to simulation, virtual reality, and 
 * 1995.01 ~ 1996.07\. CIM/FA, [DaeSang Iformation & Telecommunication](https://www.daesangit.com/).
 
 ### Lectures(Subjects, Organization)
+* 2022.06 ~ 2023.11\. R/SQL/Python/PM, Korea Asset Management Corporation.
 * 2021.10 ~ 2021.12\. R/SQL/Visulaization, Korea Asset Management Corporation.
 * 2021.06 ~ 2021.06\. SQL Basinc, SK BroadBand.
 * 2020.04 ~ 2020.06\. R, Korea Asset Management Corporation.
