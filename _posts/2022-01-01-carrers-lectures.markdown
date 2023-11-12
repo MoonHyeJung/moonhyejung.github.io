@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Careers and Lectures
-updated: 2022-01-01 11:00:00 +0300 #표시날짜
-date: 2022-01-01 11:00:00 +0300 #정렬순서
+updated: 2023-11-01 11:00:00 +0300 #표시날짜
+date: 2023-11-01 11:00:00 +0300 #정렬순서
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: software.jpg # Add image post (optional)
 tags: [Careers, Lectures] # add tag
@@ -11,6 +11,7 @@ tags: [Careers, Lectures] # add tag
 I have lectured on new technologies related to simulation, virtual reality, and web services for companies. Since 2000, I have given various lectures on data analysis for companies and universities.
 
 ### Careers(Title, Company)
+* 2022.01 ~ present\. Member of Advisory Committee, [Kangwon Land](https://kangwonland.high1.com/).
 * 2022.02 ~ present\. Women in Services Computing Committee, [IEEE Technical Community on Services Computing](http://tab.computer.org/tcsvc/).
 * 2020.01 ~ 2021.12\. Member of Advisory Committee, [KangwonLand Addiction Care Center](https://kangwonland.high1.com/klacc/index.do).
 * 2019.09 ~ 2022.02\. Professor focusing on industry-university cooperation, [SeJong University](http://www.sejong.ac.kr/).
