@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Papers and Researches
-updated: 2022-01-01 12:00:00 +0300 #표시날짜
-date: 2022-01-01 12:00:00 +0300 #정렬순서
+updated: 2023-11-01 12:00:00 +0300 #표시날짜
+date: 2023-11-01 12:00:00 +0300 #정렬순서
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: joseon.jpg # Add image post (optional)
 tags: [paper, study, research, thesis] # add tag
@@ -31,6 +31,9 @@ I have conducted a lot of papers and researches including project experience in 
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2012. Study on Agenda Setting of Korean Lottery. Korean Society and Public Administration, 23(1): 287-316.</div>
 
 ### Proceeing Papers
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2023. Design of public and auction risk analysis service based on text mining of real estate appraisal reports. The Korean Research Association for the Business Education</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2023. A study on the capacity building system for public sector informatization project implementation personnel. Korea IT Service Society</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2021. Design and implementation of mask-wearing confirmation system using OpenCV, Information Processing Society conference</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2021. Study on Delivery Service related on 4th Industrial Revolution Technology using SNS Big data, Inspiring Insight in Business Society, Convergence Conference: 582-603.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2021. Semantic Analysis of Previous Study on Artificial Intelligence in the World, Digital Contents Society, Summer Conference: JeJu, Korea.
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2018. Analysis of Contract Factors in Korean Professional Baseball Free Agent (FA) Players. The Korean Association for Survey Research, Summer Conference: Seoul, Korea.</div>
