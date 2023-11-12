@@ -11,9 +11,9 @@ tags: [paper, study, research, thesis] # add tag
 I have conducted a lot of papers and researches including project experience in the data area since 1998.
 
 ### Thesis for a degree
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2020. Study on Hundred Schools with view of Cultural Theory : focusing on Korea, China, Japan and Taiwan, DongBang Culture University. Thesis for a PhD in Philosophy.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2020. Study on Hundred Schools with View of Cultural Theory: focusing on Korea, China, Japan and Taiwan, DongBang Culture University. Thesis for a PhD in Philosophy.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2013. The advent of risk society and sustainability in Big Data Era (National Research Foundation of Korea NRF-2011-330-B00034). Advisor. Institute of IT Policy, Seoul National University of Science and Technology. Thesis for a PhD in Public Policy.</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>1998. Meta Analysis for Client Orient Distributed Processing. Computer Department of Engineering, Graduate School, Seoul National University of science and Technology. Thesis for a Master in Computer Engineering.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>1998. Meta-Analysis for Client Orient Distributed Processing. Computer Department of Engineering, Graduate School, Seoul National University of science and Technology. Thesis for a Master in Computer Engineering.</div>
 
 ### Books
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2015. “World Lottery”  (ISBN: 978-89-965258-4-4)</div>
@@ -24,10 +24,10 @@ I have conducted a lot of papers and researches including project experience in 
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2019. Lottery Game from the viewpoint of Cultural Policy and Oriental Philosophy, East Asian Culture and Thought, 7: 293-327.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2018. Study on Confucian Politics about the Annals of the Choson Dynasty through Big Data Analysis. Journal of The Korea Contents Association, 18(7): 253-261.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2018. A Study on Public Policy through Semantic Network Analysis of Public Data related News in Korea. Journal of Broadcasting Engineering, 23(4): 536-548.</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Study on Perceptions through Big data Analysis on Gambling related News in Korea. Journal of Broadcasting Engineering, 22(4): 438-447.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Study on Perceptions through Big data Analysis on Gambling-related News in Korea. Journal of Broadcasting Engineering, 22(4): 438-447.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Governance Types and Risk Response Policy in Internet Lottery, Crisisonomy 13(2), 17-32.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2015. Study on Data Sovereignty of Internet Contents. Crisisonomy 11(3): 85-103.</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2012. Risk based policy at big data era: Case study of privacy invasion. Informatization Policy, 19(4): 63-82.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2012. Risk-based policy at big data era: Case study of privacy invasion. Informatization Policy, 19(4): 63-82.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2012. Study on Agenda Setting of Korean Lottery. Korean Society and Public Administration, 23(1): 287-316.</div>
 
 ### Proceeing Papers
@@ -48,21 +48,21 @@ I have conducted a lot of papers and researches including project experience in 
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Study on Industrial Trend through Big Data Analysis of Financial Network, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Study on Media Frame of News in Politics, Culture and Economy with Big Data Analysis, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Characteristics Analysis of OECD State Lottery Sales Volume with perspective of Game, Technology, Culture, Economy, and Policy, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Analysis of traffic research trend through big data analysis of world traffic related research, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Analysis of traffic research trend through big data analysis of world traffic-related research, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Analysis of network trend in the mobile communication field research, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Analysis of market district hinterland in Seoul by ‘Big Data’ analysis, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Developing K POP localization strategy using Big Data : Focusing on customer response via Twitter, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Developing K POP localization strategy using Big Data: Focusing on customer response via Twitter, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Ecosystem Design of Big Data as a Public Goods with Semantic Analysis on Studies in the World, Inspiring Insight in Business Society, Summer Conference: GwangJu, Korea.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Ecosystem Design of Big Data through Previous Study Analysis in the World: Policy Design for Big Data as Public Goods, IEEE BigData Congress. Hawaii, USA.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Comparison of Gambling Industry through Study Analysis in the World, IEEE BigData Congress. Hawaii, USA.</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Big data Analysis on Gambling related News in Korea, IEEE BigData Congress. Hawaii, USA.</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Semantic Analysis of Transportation related Researches, IEEE BigData Congress. Hawaii, USA.</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2016. Study about advanced National ID using eID and Play Accountment Management System, The Korea Assessment for Public policy and Evaluation of Policy. Winter Conference.</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2016. Cause Identification and Public Policy against Risk Response about Accident of Printed Lottery in Korea, The Korea Assessment for Public policy and Evaluation of Policy. Winter Conference.</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2016. Comparative Analysis of e-player card for gaming customer in the World, The Korea Assessment for Public policy and Evaluation of Policy. Winter Conference.</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2016. Comparative Analysis of Institution and Policy about gambling and Lottery in Korea and UK. Korea Administration & Policy Association. Winter Conference.</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2016. Global Governance about Gambling and Lottery using Sports Game Contents. Global Culture and Contents . Winter Conference.</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2016. Study on Policy Change through Meta Analysis about Wolrd Lottery studies. The Korea Association for Policy Studies, Winter conference.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Big data Analysis on Gambling-related News in Korea, IEEE BigData Congress. Hawaii, USA.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2017. Semantic Analysis of Transportation-related Researches, IEEE BigData Congress. Hawaii, USA.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2016. Study about advanced National ID using eID and Play Accountment Management System, The Korea Assessment for Public Policy and Evaluation of Policy. Winter Conference.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2016. Cause Identification and Public Policy against Risk Response about Accident of Printed Lottery in Korea, The Korea Assessment for Public Policy and Evaluation of Policy. Winter Conference.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2016. Comparative Analysis of e-player card for gaming customers in the World, The Korea Assessment for Public Policy and Evaluation of Policy. Winter Conference.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2016. Comparative Analysis of Institution and Policy about Gambling and Lottery in Korea and UK. Korea Administration & Policy Association. Winter Conference.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2016. Global Governance about Gambling and Lottery using Sports Game Contents. Global Culture and Contents. Winter Conference.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2016. Study on Policy Change through Meta-Analysis about World Lottery studies. The Korea Association for Policy Studies, Winter conference.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2016. Governance Phenomenon and Risk Response Policy about Internet Lottery. The Korea Association for Policy Studies, Winter conference.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2016. Academic Trend Analysis through big data analysis about Gambling related studies, Korea Academy of Complexity Studies, Autome Conference.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2016. Study of Public Policy through Big Data Analysis about Gambling related News, The Korean Institute of Broadcast and Media Engineering, Autome Conference.</div>
@@ -74,6 +74,6 @@ I have conducted a lot of papers and researches including project experience in 
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2014. Policy Design based on Risk at Big Data Era: Case Study of Privacy Invasion in South Korea, ASE/IEEE International Conference on Big Data. Alaska, USA.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2014. A Study on the World Lottery Trend and Development Strategy of Lottery in Korea. Korea Society of Strategic Management Spring Conference.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2013. Development Strategy of Lottery in Korea, Lottery CommissionBig Data and Policy design for Data Sovereignty: A Case Study on Copyright and CCL in South Korea, 2013 ASE/IEEE International Conference on Big Data. Washington D.C., USA.</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2013. Policy Design about Big Data Concept and Data sovereignty. Korea Information Processing Society, Spring Conference.</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2012. Trend of Lottery studies. International Conference and Forum on Public Welfare and Gaming Industry: China, Beiging.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2013. Policy Design about Big Data Concept and Data Sovereignty. Korea Information Processing Society, Spring Conference.</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2012. The trend of Lottery studies. International Conference and Forum on Public Welfare and Gaming Industry: China, Beijing.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2011. Research about China's Future and Informatization Policy. IT & Future Strategy, 7: National Information Society Agency.</div>
