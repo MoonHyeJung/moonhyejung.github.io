@@ -31,8 +31,10 @@ I have conducted a lot of papers and researches including project experience in 
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2012. Study on Agenda Setting of Korean Lottery. Korean Society and Public Administration, 23(1): 287-316.</div>
 
 ### Proceeing Papers
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2023. Design of public and auction risk analysis service based on text mining of real estate appraisal reports. The Korean Research Association for the Business Education</div>
-- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2023. A study on the capacity building system for public sector informatization project implementation personnel. Korea IT Service Society</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2023. Risk Analysis of Public Auction based on Semantic Network Analysis on Appraisal Report. The Korea Consulting Society. 2023.11 Autumn Conference</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2023. Winning Prices Analysis for Public Procurement Bids in the fields of Electricity, Communications, and Firefighting. The Korea Consulting Society. 2023.11 Autumn Conference</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2023. Design of public and auction risk analysis service based on text mining of real estate appraisal reports. The Korean Research Association for the Business Education. 2023.06 Summer Conference</div>
+- <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2023. A study on the capacity building system for public sector informatization project implementation personnel. Korea IT Service Society. 2023.05 Spring Conference</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2021. Design and implementation of mask-wearing confirmation system using OpenCV, Information Processing Society conference</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2021. Study on Delivery Service related on 4th Industrial Revolution Technology using SNS Big data, Inspiring Insight in Business Society, Convergence Conference: 582-603.</div>
 - <div style='text-align: justify; text-indent: -3em; margin-left: 3em;'>2021. Semantic Analysis of Previous Study on Artificial Intelligence in the World, Digital Contents Society, Summer Conference: JeJu, Korea.
