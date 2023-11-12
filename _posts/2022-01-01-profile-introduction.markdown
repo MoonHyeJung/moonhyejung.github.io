@@ -18,6 +18,7 @@ I am always enjoying life, learning something and adventure of new world and tec
 * Fax: 82-(0)505-911-2054
 
 ### Position
+* Doctoral Student, Graduate School of Public Policy and IT, [Seoul National University of Science & Technology](https://www.seoultech.ac.kr/).
 * Women in Services Computing Committee, [IEEE Technical Community on Services Computing](http://tab.computer.org/tcsvc/).
 * Auditor, [Code Club Korea Committee](https://ko-kr.facebook.com/codeclubkorea/).
 * President, [Institute of Lottery Policy](http://www.lotterypolicy.com).
