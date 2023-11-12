@@ -11,6 +11,7 @@ tags: [Projects, Experiences] # add tag
 I have been working in IT-related companies in Data Analysis, Database Marketing, Business Intelligence, OLAP, and Data WareHousing since 1995.
 
 ### Projects(Role, Project Name, Customer)
+* 2023.11\.           Consultant, Data analysis education(R, Python, SQL and PM),  Korea Asset Management Corporation.
 * 2023.09\.           Judge, 2023 Public Data Analysis⬝Utilization Contest, Ministry of the Interior and Safety of Korea.
 * 2022.10 ~ 2023.02\. Consultant, Data analysis curriculum development and training video recording,  Korea Asset Management Corporation.
 * 2022.01\.           Advisory, Evaluation of Public Data Company Matching Project Closing, National Information Society Agency.
